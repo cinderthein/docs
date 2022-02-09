@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Schematell Documentations
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Create Schematell cells, `but read the docs!`
 
-Read the tutorial here:
+Read them here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+schematell-docs.readthedocs.io
