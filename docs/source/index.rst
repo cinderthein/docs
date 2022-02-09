@@ -11,7 +11,9 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development, are so are the docs.
+   We need your help to update the docs every time there is a new update!
+   Help us at `github.com/Schematell/docs <https://github.com/Schematell/docs>`
 
 Contents
 --------
